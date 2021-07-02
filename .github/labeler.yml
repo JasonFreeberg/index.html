@@ -3,3 +3,9 @@ new-post:
 
 test:
 - /*
+
+front-end:
+- frontend/*
+
+back-end:
+- backend/*
